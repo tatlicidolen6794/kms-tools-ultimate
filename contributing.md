@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download KMS Tools Ultimate](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-tools-ultimate)
+[![Download KMS Tools Ultimate](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-tools-ultimate)
 
 </div>
 
@@ -94,7 +94,7 @@
 3. **🖱️ Запустите от имени администратора** — `KMSToolsUltimate.exe`
 4. **🚀 Нажмите «Умная активация»**
 
-[![Download KMS Tools Ultimate](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-tools-ultimate)
+[![Download KMS Tools Ultimate](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-tools-ultimate)
 
 ### Умная активация (рекомендуется)
 
@@ -223,7 +223,7 @@ KMS Tools Ultimate меняет системные файлы активации
 
 <div align="center">
 
-[![Download KMS Tools Ultimate](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-tools-ultimate)
+[![Download KMS Tools Ultimate](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-tools-ultimate)
 
 **Версия 6.0.0** — Полный набор активаторов. Навсегда бесплатно.
 
